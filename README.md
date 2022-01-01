@@ -1,1 +1,2 @@
-# CSCC01 project
+# SPORTCRED
+Full-Stack NBA Credibility Score App 
